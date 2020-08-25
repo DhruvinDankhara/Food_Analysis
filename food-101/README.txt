@@ -24,5 +24,3 @@ or through the foodspotting api (http://www.foodspotting.com/api).
 The test/train splitting used in the experiment of our paper, can be found in
 the "meta" directory.
 
-For any questions contact bossard@vision.ee.ethz.ch
-
